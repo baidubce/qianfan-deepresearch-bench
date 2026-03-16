@@ -10,6 +10,8 @@
 
 本仓库包含了百度千帆团队在 [DeepResearch Bench 基准测试](https://github.com/Ayanami0730/deep_research_bench) 上的官方评估结果，这些结果已提交至 [DeepResearch Bench 排行榜](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard)。
 
+**Qianfan-DeepResearch** 是一个基于千帆大模型（Qianfan-DeepResearch Pro 和 Qianfan-DeepResearch）的深度研究智能体，它能够理解、执行和总结研究任务。你可以在[千帆Agent平台](https://console.bce.baidu.com/qianfan/studio/officialAppCenter)上使用它，或通过 API 调用它。
+
 ## 📊 DeepResearch Bench 评估结果
 
 下表展示了 **Qianfan-DeepResearch** 在 **DeepResearch Bench** 上总分及四个关键维度的评估结果：

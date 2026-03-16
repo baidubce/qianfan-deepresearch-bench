@@ -8,7 +8,10 @@
 
 ## 📖 Overview
 
-This repository contains the official evaluation results of Qianfan-DeepResearch by Baidu Qianfan team on the [DeepResearch Bench benchmark](https://github.com/Ayanami0730/deep_research_bench), submitted to the [DeepResearch Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard). 
+This repository contains the official evaluation results of Qianfan-DeepResearch by Baidu Qianfan team on the [DeepResearch Bench benchmark](https://github.com/Ayanami0730/deep_research_bench), submitted to the [DeepResearch Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
+**Qianfan-DeepResearch** is a deep research agent built on top of Qianfan Agent Infra, designed to understand, execute, and summarize research tasks. You can use it on the [Qianfan Agent platform](https://console.bce.baidu.com/qianfan/studio/officialAppCenter) or call it via [API](https://cloud.baidu.com/doc/qianfan-api/s/vmizwyngh).
+
 
 ## 📊 Evaluation Results on DeepResearch Bench
 
