@@ -3,7 +3,7 @@
   <img src="assets/baidu-cloud-en.png" alt="Logo Baidu-Cloud" height="55" />
 </div>
 
-<h1 align="center">Qianfan-DeepResearch Benchmark Results</h1>
+<h1 align="center">Qianfan-DeepResearch</h1>
 
 
 ## 📖 Overview
